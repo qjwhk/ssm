@@ -11,7 +11,11 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 import org.ssm.dufy.entity.User;
 import org.ssm.dufy.service.IUserService;
-
+/**
+ * 
+ * @author 17356
+ *
+ */
 @Controller
 public class UserController {
 
